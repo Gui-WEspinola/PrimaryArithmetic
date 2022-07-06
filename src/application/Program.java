@@ -1,4 +1,4 @@
-package application;
+package application; // problema do beecrowd: primary arithmetic
 
 import java.util.Scanner;
 
